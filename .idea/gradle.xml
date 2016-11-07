@@ -9,8 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/lDNetDiagnoServiceDemo_Android" />
-            <option value="$PROJECT_DIR$/lDNetDiagnoService_Android" />
+            <option value="$PROJECT_DIR$/LDNetDiagnoServiceDemo_Android" />
+            <option value="$PROJECT_DIR$/LDNetDiagnoService_Android" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

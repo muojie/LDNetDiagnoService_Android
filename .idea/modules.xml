@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LDNetDiagnoServiceDemo_Android1.iml" filepath="$PROJECT_DIR$/LDNetDiagnoServiceDemo_Android1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lDNetDiagnoServiceDemo_Android/lDNetDiagnoServiceDemo_Android.iml" filepath="$PROJECT_DIR$/lDNetDiagnoServiceDemo_Android/lDNetDiagnoServiceDemo_Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lDNetDiagnoService_Android/lDNetDiagnoService_Android.iml" filepath="$PROJECT_DIR$/lDNetDiagnoService_Android/lDNetDiagnoService_Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LDNetDiagnoService_Android.iml" filepath="$PROJECT_DIR$/LDNetDiagnoService_Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LDNetDiagnoServiceDemo_Android/lDNetDiagnoServiceDemo_Android.iml" filepath="$PROJECT_DIR$/LDNetDiagnoServiceDemo_Android/lDNetDiagnoServiceDemo_Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LDNetDiagnoService_Android/lDNetDiagnoService_Android.iml" filepath="$PROJECT_DIR$/LDNetDiagnoService_Android/lDNetDiagnoService_Android.iml" />
     </modules>
   </component>
 </project>
